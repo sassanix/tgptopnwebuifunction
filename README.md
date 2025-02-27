@@ -96,7 +96,7 @@ class Pipe:
 ---
 
 **Enjoy using tgpt within Open WebUI!** 🎉
-```
+
 
 # 🔌 tgpt-open-webui-integration
 

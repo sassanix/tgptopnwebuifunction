@@ -1,6 +1,4 @@
-Certainly! Here's a GitHub README.md file created from the provided information, incorporating the requested elements:
 
-```markdown
 # 🔌 tgpt-open-webui-integration
 
 **Connect tgpt to Open WebUI for Enhanced Model Access!** 🚀
@@ -100,7 +98,6 @@ class Pipe:
 **Enjoy using tgpt within Open WebUI!** 🎉
 ```
 
-```markdown
 # 🔌 tgpt-open-webui-integration
 
 **Connect tgpt to Open WebUI for Enhanced Model Access!** 🚀
